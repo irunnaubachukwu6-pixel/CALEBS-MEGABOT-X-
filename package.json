@@ -1,0 +1,19 @@
+{
+  "name": "calebs-megabot-x",
+  "version": "1.0.0",
+  "description": "A professional and powerful 400-command WhatsApp MD bot built by Calebdcreator 🐉",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "figlet": "^1.6.0",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2",
+    "pino": "^9.2.0"
+  }
+}
